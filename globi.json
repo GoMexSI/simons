@@ -2,6 +2,6 @@
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "simons",
   "resources": {
-    "simons/mississippiAlabamaFishDiet.csv", "mississippiAlabamaFishDiet.csv"
+    "simons/mississippiAlabamaFishDiet.csv": "mississippiAlabamaFishDiet.csv"
   }
 }
