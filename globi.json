@@ -3,5 +3,6 @@
   "format": "simons",
   "resources": {
     "simons/mississippiAlabamaFishDiet.csv": "mississippiAlabamaFishDiet.csv"
-  }
+  },
+  "shouldResolveReferences": false
 }
