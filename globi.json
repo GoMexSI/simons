@@ -1,6 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "simons",
+  "citation": "Simons JD. 1997. Food habits and trophic structure of the demersal fish assemblages on the Mississippi-Alabama continental shelf. PhD Thesis.",
   "resources": {
     "simons/mississippiAlabamaFishDiet.csv": "mississippiAlabamaFishDiet.csv"
   },
